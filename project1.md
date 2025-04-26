@@ -4,7 +4,7 @@ title: Project 1
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Praise Adewumi and this is my project 1:
+My name is Praise Adewumi. This is Project 1
 
 - I rock a great mustache
 - I'm extremely loyal to my family
