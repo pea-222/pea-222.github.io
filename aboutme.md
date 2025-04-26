@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Who Am I?
 ---
 
-My name is Praise Adewumi. I have the following qualities:
+My name is Praise Esther Adewumi. I am currently a 5th year student at the University of Calgary pursuing a Bsc in Kinesiology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Some Fun Facts about me:
 
-What else do you need?
+- I want to become a dentist in the future
+- I am a certified esthetician (I got certified in high school!)
+- My hobbies include nail art, pottery, and playing animal crossing
 
-### My story
+Here's some of my work!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Resume
+
+If you're intrested in my career and skills, you can view [my resume here](https://drive.google.com/file/d/16JM0_vAaZ2TvPMw7LstHM6G6-K9-AQ8a/view?usp=drive_link) and get a deeper insight into my credentials.
