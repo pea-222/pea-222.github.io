@@ -7,7 +7,7 @@ subtitle: Who Am I?
 <img src="/assets/img/aboutme.png" alt="about me" style="width:265px;height:378px;">
 </p>
 
-My name is Praise Esther Adewumi. I am currently a 5th year student at the University of Calgary pursuing a Bsc in Kinesiology.
+My name is Praise Esther Adewumi. I am currently a 5th year student at the University of Calgary pursuing a BSc in Kinesiology.
 
 Some Fun Facts about me:
 
@@ -24,4 +24,4 @@ Here's some of my work!
 
 ### My Resume
 
-If you're intrested in my career and skills, you can view [my resume here](https://drive.google.com/file/d/16JM0_vAaZ2TvPMw7LstHM6G6-K9-AQ8a/view?usp=drive_link) and get a deeper insight into my credentials.
+If you're interested in my career and skills, you can view [my resume here](https://drive.google.com/file/d/16JM0_vAaZ2TvPMw7LstHM6G6-K9-AQ8a/view?usp=drive_link) and get a deeper insight into my credentials.

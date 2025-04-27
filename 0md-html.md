@@ -4,7 +4,7 @@ title: Markdown & HTML
 subtitle: Slowly getting better...
 ---
 
-The Markdown/HTML assignment was my second go at using GitHub (to look at my first attempt, take a look at the [github](https://pea-222.github.io/0github/) page!), and I can proudly say that it was a lot better that then first time.
+The Markdown/HTML assignment was my second go at using GitHub (to look at my first attempt, take a look at the [github](https://pea-222.github.io/0github/) page!), and I can proudly say that it was a lot better than the first time.
 
  I created this page here using Markdown and HTML language.
 
