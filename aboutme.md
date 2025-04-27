@@ -3,6 +3,7 @@ layout: page
 title: About Me
 subtitle: Who Am I?
 ---
+<img div align="center" src="/assets/img/aboutme.png" alt="about me">
 
 My name is Praise Esther Adewumi. I am currently a 5th year student at the University of Calgary pursuing a Bsc in Kinesiology.
 
