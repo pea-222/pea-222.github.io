@@ -3,6 +3,9 @@ layout: page
 title: Excel
 subtitle: Using my skills for Kinesiology
 ---
+img {
+    max-width:none;
+}
 
 By improving my Excel skills, I am able to analyse and display perfomance data in an effective and efficient way for athletes and coaches.
 
@@ -12,7 +15,4 @@ By improving my Excel skills, I am able to analyse and display perfomance data i
 </video>
 
 ### This graph was made using PivotTable:
-<img src="/assets/img/chart.png" width="960" height="360">
-img {
-    max-width: 200%;
-}
+<img src="/assets/img/chart.png" width="960" height="360" max-width: >
