@@ -15,4 +15,4 @@ By improving my Excel skills, I am able to analyse and display perfomance data i
 </video>
 
 ### This graph was made using PivotTable:
-<img src="/assets/img/chart.png" width="960" height="360" max-width: >
+<img src="/assets/img/chart.png" width="960" height="360">
