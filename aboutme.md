@@ -16,6 +16,11 @@ Some Fun Facts about me:
 - My hobbies include nail art, pottery, and playing animal crossing
 
 Here's some of my work!
+<div style="display: flex;">
+  <img src="/assets/img/makeup.jpg" style="width: 200px;">
+  <img src="/assets/img/nails.png" style="width: 200px;">
+  <img src="/assets/img/pottery.jpg" style="width: 200px;">
+</div>
 
 ### My Resume
 
