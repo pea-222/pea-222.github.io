@@ -7,7 +7,7 @@ subtitle: Using my skills for Kinesiology
 By improving my Excel skills, I am able to analyse and display perfomance data in an effective and efficient way for athletes and coaches.
 
 ### Here is an example of some data analysis
-<video width="1920" height="1200" controls>
+<video width="320" height="240" controls>
     <source src="/assets/img/excel-vid.mp4" type="video/mp4">
 </video>
 
