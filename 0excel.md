@@ -12,5 +12,5 @@ By improving my Excel skills, I am able to analyse and display perfomance data i
 
 ### This graph was made using PivotTable:
 <img style="max-width:none">
-<img src="/assets/img/chart.png" width="960" height="360">
+    <img src="/assets/img/chart.png" width="960" height="360">
 </img> 
