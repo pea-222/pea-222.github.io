@@ -12,4 +12,4 @@ By improving my Excel skills, I am able to analyse and display perfomance data i
 </video>
 
 ### This graph was made using PivotTable:
-<img src="/assets/img/chart.png" style="width:690px;height:518px;">
+<img src="/assets/img/chart.png" style="width:960px;height:441px;">
