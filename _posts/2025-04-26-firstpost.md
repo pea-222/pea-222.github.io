@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Beginning of it all
+title: The Beginning of it All
 subtitle: How I decided to make a website
 cover-img: /assets/img/1stpost-cover.jpg
 thumbnail-img: /assets/img/1stpost-thumb.jpg
