@@ -8,7 +8,7 @@ subtitle: Who Am I?
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 75%;
 }
 
 My name is Praise Esther Adewumi. I am currently a 5th year student at the University of Calgary pursuing a Bsc in Kinesiology.
