@@ -3,10 +3,6 @@ layout: page
 title: Excel
 subtitle: Using my skills for Kinesiology
 ---
-#chart .chart img{
-    max-width: none;
-}
-
 By improving my Excel skills, I am able to analyse and display perfomance data in an effective and efficient way for athletes and coaches.
 
 ### Here is an example of some data analysis
@@ -15,8 +11,6 @@ By improving my Excel skills, I am able to analyse and display perfomance data i
 </video>
 
 ### This graph was made using PivotTable:
-<div id="chart">
-    <a class="chart">
+<img style="max-width:none">
 <img src="/assets/img/chart.png" width="960" height="360">
-</a>
-</div>
+</img> 
