@@ -22,10 +22,10 @@ author: Praise Esther Adewumi
 navbar-links:
   About Me: "aboutme"
   My Projects:
-    - GitHub: "project1"
-    - Markdown & HTML: "project2"
-    - Excel: "project3"
-    - Scratch: "project4"
+    - GitHub: "/_projects/project1.md"
+    - Markdown & HTML: "/_projects/project2.md"
+    - Excel: "/_projects/project3.md"
+    - Scratch: "/_projects/project4.md"
 
 ################
 # --- Logo --- #
